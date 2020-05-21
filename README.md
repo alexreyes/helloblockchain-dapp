@@ -31,3 +31,5 @@ npm start
 Navigate to http://localhost:3000
 
 `NOTE: If you are using a remote network (not ganache), you will to have a injected web3 provider.  [MetaMask](https://metamask.io/) works well for this in browser.`
+
+If you are using metamask, you will need to change the network to be on Localhost for the DApp to work. 
